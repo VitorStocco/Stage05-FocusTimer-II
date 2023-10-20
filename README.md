@@ -1,4 +1,4 @@
-<h1 align="center"> <strong>Desafio Explorer: Focus Timer II</strong> </h1>
+<h1 align="center"> <strong>Desafio Explorer Stage 5: Focus Timer II</strong> </h1>
 
 <p align="center">
 Desafio para criação de um Timer, no qual o usuário pode informar qual o tempo no cronometo, também escutar músicas e mesclar elas.<br/>
